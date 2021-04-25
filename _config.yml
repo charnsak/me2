@@ -53,9 +53,8 @@ orcid_username: 0000-0003-3195-8628
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
-  Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. <mark> One year in Bangalore </mark>. <mark> One year in Vienna </mark>.
-
-He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
+  Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. <mark> One year in Bangalore </mark>. <mark> One year in Vienna </mark>. 
+  He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
 
 content:
   - title: Projects # Title for the section
