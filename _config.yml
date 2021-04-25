@@ -90,12 +90,11 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: KMUTT
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: top-left
+        title: Doctor of Philosophy in Information Technology
+        sub_title: Information Technology 
+        caption: 2011 - 2015
+        quote: King Mongkut’s University of Technology Thonburi, Bangkok, Thailand. (Non-binding scholarship)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
