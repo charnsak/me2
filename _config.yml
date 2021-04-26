@@ -95,8 +95,8 @@ content:
         #sub_title: Information Technology 
         caption: 2011 - 2015
         quote: King Mongkut’s University of Technology Thonburi, Bangkok, Thailand. (Non-binding scholarship)
-      #  description: | # this will include new lines to allow paragraphs
-       #   Description of qualification
+        description: | # this will include new lines to allow paragraphs
+         Description of qualification
     - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
