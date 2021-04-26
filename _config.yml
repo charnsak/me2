@@ -87,16 +87,17 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+ - title: Education
     layout: list
     content:
-      - layout: top-left
-        title: Doctor of Philosophy in Information Technology
-        sub_title: Information Technology 
-        caption: 2011 - 2015
-        quote: King Mongkut’s University of Technology Thonburi, Bangkok, Thailand. (Non-binding scholarship)
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-         Description of qualification
+          Description of qualification
     - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
