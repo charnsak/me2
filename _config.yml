@@ -97,9 +97,6 @@ content:
         quote: King Mongkut’s University of Technology Thonburi, Bangkok, Thailand. (Non-binding scholarship)
       #  description: | # this will include new lines to allow paragraphs
        #   Description of qualification
-        - title: Education
-    layout: list
-       content:
     - layout: top-left
         title: Master of Science in Electronic Business
         #sub_title: Information Technology 
