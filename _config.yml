@@ -97,12 +97,7 @@ content:
         quote: King Mongkut’s University of Technology Thonburi, Bangkok, Thailand. (Non-binding scholarship)
       #  description: | # this will include new lines to allow paragraphs
        #   Description of qualification
-    - layout: top-left
-        title: Master of Science in Electronic Business
-        #sub_title: Information Technology 
-        caption: 2007 - 2009
-        quote: King Mongkut’s University of Technology Thonburi, Bangkok, Thailand. (Non-binding scholarship)
-  - title: A Little More About Me
+    - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
